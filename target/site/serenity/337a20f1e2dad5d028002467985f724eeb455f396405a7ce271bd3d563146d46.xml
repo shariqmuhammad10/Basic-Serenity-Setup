@@ -1,0 +1,9 @@
+<acceptance-test-run title="Verify login page is appearing" name="verifyLoginPageIsAppearing" steps="1" successful="1" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="9710" timestamp="2019-10-31T11:46:03.451+05:00" session-id="53c62ee83bf541d4dfcdfc58d98f46c1">
+  <user-story id="com.aptafund.test.features.EmployeePayrollTest" name="Employee payroll test" path="com.aptafund.test.features"/>
+  <tags>
+    <tag name="Employee payroll test" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="9708">
+    <description>Navigate to login page</description>
+  </test-step>
+</acceptance-test-run>

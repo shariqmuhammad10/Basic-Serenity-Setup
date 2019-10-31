@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.aptafund.test.features.EmployeePayrollTest" skipped="0" tests="1" time="16.86" timestamp="2019-10-303 11:51:43"><testcase classname="com.aptafund.test.features.EmployeePayrollTest" name="Verify login page is appearing"><error message="Timed out after 5 seconds. Element not available&#10;Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'&#10;System info: host: 'CRKRL-MUHAMSHA1', ip: '172.16.220.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.4'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.ElementNotVisibleException">Timed out after 5 seconds. Element not available
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'CRKRL-MUHAMSHA1', ip: '172.16.220.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.4'
+Driver info: driver.version: unknown</error><system-err>Timed out after 5 seconds. Element not available
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'CRKRL-MUHAMSHA1', ip: '172.16.220.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.4'
+Driver info: driver.version: unknown&#13;
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)&#13;
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+com.aptafund.test.pages.common.AptaLoginPage.verifyPageIsOpen(AptaLoginPage.java:41)&#13;
+com.aptafund.test.steps.payroll_steps.ManagePayrollSteps.navigateToLoginPage(ManagePayrollSteps.java:30)&#13;
+com.aptafund.test.features.EmployeePayrollTest.verifyLoginPageIsAppearing(EmployeePayrollTest.java:32)&#13;
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)&#13;
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+</system-err></testcase></testsuite>

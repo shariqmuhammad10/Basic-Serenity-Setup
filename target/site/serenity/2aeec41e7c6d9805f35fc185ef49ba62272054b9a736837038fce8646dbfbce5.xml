@@ -1,0 +1,12 @@
+<acceptance-test-run title="Verify login into site" name="VerifyLoginIntoSite" steps="2" successful="2" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="10481" timestamp="2019-10-31T11:45:52.143+05:00" session-id="0df0656d08a3db8855cdfdd09705511b">
+  <user-story id="com.aptafund.test.features.EmployeePayrollTest" name="Employee payroll test" path="com.aptafund.test.features"/>
+  <tags>
+    <tag name="Employee payroll test" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="10027">
+    <description>Navigate to login page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="442">
+    <description>Login into site</description>
+  </test-step>
+</acceptance-test-run>
